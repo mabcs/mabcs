@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mabcs
+- 👀 I’m interested in ... electronic
+- 🌱 I’m currently learning ...c#
+- 💞️ I’m looking to collaborate on ... everyone
+- 🇵🇹 PT
